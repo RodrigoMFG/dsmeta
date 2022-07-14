@@ -1,2 +1,2 @@
 # dsmeta
-Projeto de estudos da DevSuperior
+Projeto de estudos da Semana Spring React da DevSuperior
